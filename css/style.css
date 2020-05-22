@@ -7,6 +7,11 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+	/* New */
+	h2{ position:relative; }
+	h2 span{ position:absolute; top:-55px;}
+	td{ position:relative; }
+	td span{ position:absolute; top:-55px;}
 
 /* Basic */
 
