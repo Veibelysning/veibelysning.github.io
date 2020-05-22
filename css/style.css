@@ -10,6 +10,8 @@
 	/* New */
 	h2{ position:relative; }
 	h2 span{ position:absolute; top:-55px;}
+	h3{ position:relative; }
+	h3 span{ position:absolute; top:-55px;}
 	td{ position:relative; }
 	td span{ position:absolute; top:-55px;}
 
