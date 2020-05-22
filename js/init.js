@@ -88,23 +88,23 @@
 				// Navigation Panel.
 					navPanel: {
 						animation: 'pushX',
-						breakpoints: 'medium',
+						breakpoints: 'global',
 						clickToHide: true,
 						height: '100%',
 						hidden: true,
 						html: '<div data-action="moveElement" data-args="nav"></div>',
 						orientation: 'vertical',
-						position: 'top-left',
-						side: 'left',
+						position: 'top-right',
+						side: 'right',
 						width: 250
 					},
 
 				// Navigation Button.
 					navButton: {
-						breakpoints: 'medium',
+						breakpoints: 'global',
 						height: '4em',
 						html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span>',
-						position: 'top-left',
+						position: 'top-right',
 						side: 'top',
 						width: '6em'
 					}
