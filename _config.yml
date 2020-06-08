@@ -2,13 +2,9 @@
 title: Veibelysning i Vanvikbakkan
 email: runar@hjerpbakk.com
 description: > # this means to ignore newlines until "baseurl:"
-  Rapporten gir svar på hvordan det er mulig å oppnå størst reduksjon i effektforbruket 
-  i Vanvikbakkan. Samtidig som sikkerhet ivaretas iht. 
-  fylkets belysningskrav til denne type vei.
+  For Vanvikbakkan ligger det en teoretisk energibesparelse på ca.70%, med vegbelysning utført med LED og tilhørende smartstyring.
 url: "https://veibelysning.github.io" # the base hostname & protocol for your site
 production: true
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
